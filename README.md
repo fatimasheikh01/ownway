@@ -1,4 +1,4 @@
 # ownway
-this is mine first repository
+This is mine first git repository
 <br>
 Author = Fatima Sheikh
